@@ -1,0 +1,6 @@
+{
+  "name": "Realtime Chat",
+  "description": "A modern responsive real-time chat application powered by React and Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
